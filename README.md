@@ -1,31 +1,22 @@
 # ChatAPP
-[![Product Screen Shot 1](https://github.com/ismail424/ChatAPP/blob/master/bild1.jpg)
-[![Product Screen Shot 2](https://github.com/ismail424/ChatAPP/blob/master/bild2.JPG)
+![Product Screen Shot 1](https://github.com/ismail424/ChatAPP/blob/master/bild1.jpg)
+![Product Screen Shot 2](https://github.com/ismail424/ChatAPP/blob/master/bild2.JPG)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+A simple chat app created with react. To start chatting with your friends you have to log in with a google or facebook account. 
 
 ### Built With
 * [React](https://reactjs.org/)
 
-
+## Requirements
+* [Node.js](https://nodejs.org/en/download)
 
 <!-- GETTING STARTED -->
 ## Getting Started
+1. Download/Clone this repository!
+2. Install node.js if you dont have it | [Install it here] (https://nodejs.org/en/download/)
+3. Open the folder ChatApp and run "npm start" to start the app.
+4. Everything is done! You have created your own chat app :)
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 <!-- CONTACT -->
 ## Contact
