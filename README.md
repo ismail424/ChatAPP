@@ -13,9 +13,13 @@ A simple chat app created with react. To start chatting with your friends you ha
 <!-- GETTING STARTED -->
 ## Getting Started
 1. Download/Clone this repository!
-2. Install node.js if you dont have it | [Install it here] (https://nodejs.org/en/download/)
-3. Open the folder ChatApp and run "npm start" to start the app.
-4. Everything is done! You have created your own chat app :)
+2. Install node.js if you dont have it | Install it here --> (https://nodejs.org/en/download/)
+3. Create a Firebase project (https://console.firebase.google.com/)
+4. Allow google authentication (Project --> Build -- > Authentication --> Sign-in method  --> Google accounts (Enable)
+5. In Project settings copy Firebase SDK snippet copy configurations and paste it in app.js line 13
+![Project settings](https://github.com/ismail424/ChatAPP/blob/master/bild3.JPG)
+6. Open the folder ChatApp and run "npm start" to start the app.
+7. Everything is done! You have created your own chat app :)
 
 
 <!-- CONTACT -->
@@ -24,20 +28,3 @@ A simple chat app created with react. To start chatting with your friends you ha
 Ismail Sacic - cicas03@hotmail.com
 
 Project Link: [https://github.com/ismail424/ChatAPP](https://github.com/ismail424/ChatAPP)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
