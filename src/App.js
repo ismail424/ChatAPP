@@ -10,12 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCW-kxLm3uqI1A7arJ3lGDOxRgHm7rgKDE",
-  authDomain: "ismailschatapp.firebaseapp.com",
-  projectId: "ismailschatapp",
-  storageBucket: "ismailschatapp.appspot.com",
-  messagingSenderId: "1027678875014",
-  appId: "1:1027678875014:web:1e1e7010727f7c4d379007"
+  //Api 
 })
 
 const auth = firebase.auth();
